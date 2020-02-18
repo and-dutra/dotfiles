@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!.emacs.d
+!.vscode
+!.vimrc
+!.zshrc
+
+# ...even if they are in subdirectories
+# !*/
