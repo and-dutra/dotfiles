@@ -117,3 +117,4 @@ export PATH="$PATH":"/Users/andre/development/flutter/bin"
 
 # Created by `userpath` on 2020-02-12 12:55:42
 export PATH="$PATH:/Users/andre/.local/bin"
+export PATH="$PATH:/Users/andre/.composer/vendor/bin"
