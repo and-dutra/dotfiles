@@ -102,6 +102,7 @@ alias sourcez="source ~/.zshrc"
 alias gbr="git branch | grep -v "develop" | xargs git branch -D"
 alias monitor="sleep 1;pmset displaysleepnow"
 alias simu="open -a Simulator"
+alias sshlemp="ssh root@167.99.98.245"
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
